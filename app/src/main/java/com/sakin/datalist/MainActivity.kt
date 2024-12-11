@@ -219,15 +219,15 @@ class MainActivity : AppCompatActivity() {
         imageList.add(R.drawable.limon09)
         imageList.add(R.drawable.rumi10)
         imageList.add(R.drawable.ic_launcher_foreground) // 11
-        imageList.add(R.drawable.ic_launcher_foreground) // 12
-        imageList.add(R.drawable.ic_launcher_foreground) // 13
-        imageList.add(R.drawable.ic_launcher_foreground) // 14
-        imageList.add(R.drawable.ic_launcher_foreground) // 15
+        imageList.add(R.drawable.abdulla12) // 12
+        imageList.add(R.drawable.abidabdullah13) // 13
+        imageList.add(R.drawable.samin14) // 14
+        imageList.add(R.drawable.partho15) // 15
         imageList.add(R.drawable.ic_launcher_foreground) // 16
-        imageList.add(R.drawable.ic_launcher_foreground) // 17
+        imageList.add(R.drawable.mazharul17) // 17
         imageList.add(R.drawable.ic_launcher_foreground) // 18
         imageList.add(R.drawable.ic_launcher_foreground) // 19
-        imageList.add(R.drawable.ic_launcher_foreground) // 20
+        imageList.add(R.drawable.anzum20) // 20
         imageList.add(R.drawable.ic_launcher_foreground) // 21
         imageList.add(R.drawable.ic_launcher_foreground) // 22
         imageList.add(R.drawable.ic_launcher_foreground) // 23
