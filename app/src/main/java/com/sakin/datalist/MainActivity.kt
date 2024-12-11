@@ -89,8 +89,8 @@ class MainActivity : AppCompatActivity() {
         countryNameList.add("64. UMMAY FARHANA MARIUM")
         countryNameList.add("65. MST. SHIMU KHATUN")
         countryNameList.add("66. MD. FORHAD HASAN JEWEL")
-        countryNameList.add("67. SAJAL BARMO")
-        countryNameList.add("68. ----------------------")
+
+
         countryNameList.add("69. MD. SHUVO KHAN")
         countryNameList.add("70. TABASSUM HUDA OYSHI")
         countryNameList.add("71. SHAMIM HOSSAIN")
@@ -124,10 +124,13 @@ class MainActivity : AppCompatActivity() {
         countryNameList.add("99. DHANONJOY KUMAR BARMAN")
         countryNameList.add("100. SAGOR CHANDRA PAUL")
         countryNameList.add("101. MAHIR MOHTASIM AKIF KHAN")
-        countryNameList.add("102. -----------------------")
+
         countryNameList.add("103. SUMAIYA MAMUN")
         countryNameList.add("104. S.K TAWKIR AHMED")
         countryNameList.add("105. RANA SINGHO")
+
+
+
 
 
 
@@ -168,10 +171,13 @@ class MainActivity : AppCompatActivity() {
         detailsList.add("Phone: 8801886541130") // 35. MEHRAB HOSSAIN SIDDIQUE
         detailsList.add("Phone: 8801890302904") // 36. JUYENA AKTER
         detailsList.add("Phone: 8801781539239") // 37. MD. SHAHRIAR GALIB
+        detailsList.add("Phone: 01888888888") // 38. JOY KUMAR MOHONTO
         detailsList.add("Phone: 8801771856400") // 39. PRITOM DAS
         detailsList.add("Phone: 8801842781526") // 40. KAMRUL HASAN
         detailsList.add("Phone: 8801305065824") // 41. MD. THOWFIQUR BARI CHOWDHURY
         detailsList.add("Phone: 8801934347283") // 42. UMME ZOAYRIA ABEDIN
+
+
         detailsList.add("Phone: 8801995891166") // 43. PRANTA DAS
         detailsList.add("Phone: 8801943358887") // 44. SAYEED HASSAN
         detailsList.add("Phone: 8801632738025") // 45. SAIFUR RAHMAN KHAN
@@ -195,16 +201,49 @@ class MainActivity : AppCompatActivity() {
         detailsList.add("Phone: 8801947071158") // 63. NEHAL HASNAIN ALVE
         detailsList.add("Phone: 8801872152448") // 64. UMMAY FARHANA MARIUM
         detailsList.add("Phone: 8801310606195") // 65. MST. SHIMU KHATUN
-        detailsList.add("Phone: 8801319133660") // 95. MD. ATAUR RAHMAN
-        detailsList.add("Phone: 8801711968254") // 96. JAWAD AZIZ CHOWDHURY
-        detailsList.add("Phone: 8801968365618") // 97. HRIDOY KUMAR BISWAS
-        detailsList.add("Phone: 8801516509402") // 98. MD. MILON MIA
-        detailsList.add("Phone: 8801783062908") // 99. DHANONJOY KUMAR BARMAN
-        detailsList.add("Phone: 8801315839205") // 100. SAGOR CHANDRA PAUL
-        detailsList.add("Phone: 8801313922345") // 101. MAHIR MOHTASIM AKIF KHAN
-        detailsList.add("Phone: 8801408571069") // 103. SUMAIYA MAMUN
-        detailsList.add("Phone: 8801778520511") // 104. S.K TAWKIR AHMED
-        detailsList.add("Phone: 8801779952572") // 105. RANA SINGHO
+        detailsList.add("Phone: 0177777777777") // 66. MD. FORHAD HASAN JEWEL
+        detailsList.add("Phone: 8801603160577") // 1069. MD. SHUVO KHAN
+        detailsList.add("Phone: 8801834093856") // 1070. TABASSUM HUDA OYSHI
+        detailsList.add("Phone: 8801301924956") // 1071. SHAMIM HOSSAIN
+        detailsList.add("Phone: 8801777020195") // 1072. RAHAT AZMAIN RUPAK
+        detailsList.add("Phone: 8801773106879") // 1073. MD. FAHIMOR RAHMAN
+        detailsList.add("Phone: 8801986098422") // 1074. TAYABA KABIR RICHEE
+        detailsList.add("Phone: 8801871414831") // 1075. HARUN OR RASHID RASEL
+        detailsList.add("Phone: 8801793183707") // 1076. REJVI AHMED
+        detailsList.add("Phone: 8801714328693") // 1077. MOHAMMAD AIAS RAHMAN
+        detailsList.add("Phone: 8801771248929") // 1078. MST. NUZHAT-E-RAHMAN
+        detailsList.add("Phone: 8801586313185") // 1079. FAHMID HASAN
+        detailsList.add("Phone: 8801932573172") // 1080. SHARIF UDDIN
+        detailsList.add("Phone: 8801714677847") // 1081. MD. SAYEM ISLAM
+        detailsList.add("Phone: 8801308447510") // 1082. MD. KAMRUL HASAN
+        detailsList.add("Phone: 8801746978549") // 1083. NILOY CHANDRA DEB
+        detailsList.add("Phone: 8801781642855") // 1084. MST. FAHMIDA HAQUE MIM
+        detailsList.add("Phone: 8801792841660") // 1085. SHOUROV ROY
+        detailsList.add("Phone: 8801622534500") // 1086. ABDULLAH AL MAMUN
+        detailsList.add("Phone: 8801880053025") // 1087. MD. ISHMAM IFTI NOOR
+        detailsList.add("Phone: 8801751907010") // 1088. A. B. M. MOSTAKIM NILOY
+        detailsList.add("Phone: 8801936043645") // 1089. TOWHEDUZZAMAN
+        detailsList.add("Phone: 8801964281241") // 1090. MAHDI HASAN QURISHI
+        detailsList.add("Phone: 8801825216534") // 1091. SANTOSH SAHA
+        detailsList.add("Phone: 8801610051532") // 1092. MD IFTEKHER HAIDER RAKIB
+        detailsList.add("Phone: 8801786708462") // 1093. MD. SHAMSHUDDOHA SOUROV
+        detailsList.add("Phone: 8801707515085") // 1094. AJOY CHAKRABARTHY
+        detailsList.add("Phone: 8801319133660") // 1095. MD. ATAUR RAHMAN
+        detailsList.add("Phone: 8801711968254") // 1096. JAWAD AZIZ CHOWDHURY
+        detailsList.add("Phone: 8801968365618") // 1097. HRIDOY KUMAR BISWAS
+        detailsList.add("Phone: 8801516509402") // 1098. MD. MILON MIA
+        detailsList.add("Phone: 8801783062908") // 1099. DHANONJOY KUMAR BARMAN
+        detailsList.add("Phone: 8801315839205") // 1100. SAGOR CHANDRA PAUL
+        detailsList.add("Phone: 8801313922345") // 1101. MAHIR MOHTASIM AKIF KHAN
+        detailsList.add("Phone: 8801408571069") // 1103. SUMAIYA MAMUN
+        detailsList.add("Phone: 8801778520511") // 1104. S.K TAWKIR AHMED
+        detailsList.add("Phone: 8801779952572") // 1105. RANA SINGHO
+
+
+
+
+
+
 
 
 
@@ -274,8 +313,7 @@ class MainActivity : AppCompatActivity() {
         imageList.add(R.drawable.ic_launcher_foreground) // 64
         imageList.add(R.drawable.ic_launcher_foreground) // 65
         imageList.add(R.drawable.ic_launcher_foreground) // 66
-        imageList.add(R.drawable.ic_launcher_foreground) // 67
-        imageList.add(R.drawable.ic_launcher_foreground) // 68
+
         imageList.add(R.drawable.ic_launcher_foreground) // 69
         imageList.add(R.drawable.ic_launcher_foreground) // 70
         imageList.add(R.drawable.ic_launcher_foreground) // 71
@@ -309,11 +347,11 @@ class MainActivity : AppCompatActivity() {
         imageList.add(R.drawable.ic_launcher_foreground) // 99
         imageList.add(R.drawable.ic_launcher_foreground) // 100
         imageList.add(R.drawable.ic_launcher_foreground) // 101
-        imageList.add(R.drawable.ic_launcher_foreground) // 102
+
         imageList.add(R.drawable.ic_launcher_foreground) // 103
         imageList.add(R.drawable.ic_launcher_foreground) // 104
         imageList.add(R.drawable.ic_launcher_foreground) // 105
-        imageList.add(R.drawable.ic_launcher_foreground) // 106
+
 
 
 
